@@ -4,10 +4,10 @@
   "signature": "",
   "advertisement": "",
   "topics": [
-    {"subject" : "IT - Security"    , "name": "IT - 보안"    , "levels": 5 , "amount" : 30},
-    {"subject" : "wow"              , "name": "건강"         , "levels": 5 , "amount" : 30},
-    {"subject" : "basic"            , "name": "기본상식"     , "levels": 5 , "amount" : 50},
-    {"subject" : "knowledge"        , "name": "생활상식"     , "levels": 5 , "amount" : 50}
+    {"subject" : 1,  "levels": 5, "amount" : 30, "name": "IT - 보안"},
+    {"subject" : 2,  "levels": 5, "amount" : 30, "name": "건강" },
+    {"subject" : 3,  "levels": 5, "amount" : 50, "name": "기본상식"},
+    {"subject" : 4,  "levels": 4 , "amount" : 50, "name": "생활상식"}
 
   ]
 }

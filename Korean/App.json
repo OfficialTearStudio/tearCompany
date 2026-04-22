@@ -2,6 +2,7 @@
 {
   "signature": "Z/mFnS/ok42fupwSrNtbX1cC4a6OGcyf50axvxH6uytbv3wqvdeAJ/s+ozaED+W160bUsi4yl1uv1YmIOgspoFASs2CPE1rEjwWne9j3Ij9vBleiVAioPvE8qHEMn+u52fz0/9dyDaa3+wjwFG2yRivBozb1MZFUOE993TnTe88E+jmxk0OJ3hE0h8/ofZyGmioAPAr7Q4jQ+HGucrZa4ZkxtErYoOuzhkK3w9r/2v55wxrq/qfxxG9A1q/7oxoTWptgvTQo3f3a/BLrZS2c0UViLoFLMCHtC8NnyMVQqRgkUvjnA8/TLxgcINLwPcZq8+eiOGz50nQISVxl9iIS2Q==",
   "advertisement": "",
+  "alarm":"",
   "topics": [
     {"subject" : 1,  "levels": 5, "amount" : 30, "name": "IT - 보안"},
     {"subject" : 2,  "levels": 5, "amount" : 30, "name": "건강" },

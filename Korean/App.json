@@ -1,11 +1,13 @@
+
 {
   "version": 1,
   "signature": "",
   "advertisement": "",
-  "topics": {
-    "IT - 보안": 5,
-    "IT - 기본상식": 5,
-    "건강": 4,
-    "생활상식":5
-  }
+  "topics": [
+    {"subject" : "IT - Security"    , "name": "IT - 보안"    , "levels": [30, 30, 30, 30, 30]},
+    {"subject" : "health"           , "name": "건강"         , "levels": [50, 50, 50, 50, 50]},
+    {"subject" : "basic"            , "name": "기본상식"     , "levels": [50, 50, 50, 50, 50]},
+    {"subject" : "knowledge"        , "name": "생활상식"     , "levels": [50, 50, 50, 50, 50]}
+
+  ]
 }

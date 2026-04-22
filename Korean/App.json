@@ -5,7 +5,7 @@
   "advertisement": "",
   "topics": [
     {"subject" : "IT - Security"    , "name": "IT - 보안"    , "levels": [30, 30, 30, 30, 30]},
-    {"subject" : "health"           , "name": "건강"         , "levels": [50, 50, 50, 50, 50]},
+    {"subject" : "wow"           , "name": "건강"         , "levels": [50, 50, 50, 50, 50]},
     {"subject" : "basic"            , "name": "기본상식"     , "levels": [50, 50, 50, 50, 50]},
     {"subject" : "knowledge"        , "name": "생활상식"     , "levels": [50, 50, 50, 50, 50]}
 

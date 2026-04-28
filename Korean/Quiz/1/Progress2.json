@@ -3,7 +3,7 @@
   "quizList": [
     {
       "number": 0,
-      "question": "level_3",
+      "question": "subject_1_level_3",
       "options": ["가와바타 야스나리", "타고르", "오에 겐자부로", "가오싱젠"],
       "answer": "타고르"
     },

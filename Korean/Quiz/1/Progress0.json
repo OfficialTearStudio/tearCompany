@@ -3,7 +3,7 @@
   "quizList": [
     {
       "number": 0,
-      "question": "노벨문학상을 받은 최초의 아시아인은?",
+      "question": "subject_1_level_1",
       "options": ["가와바타 야스나리", "타고르", "오에 겐자부로", "가오싱젠"],
       "answer": "타고르"
     },

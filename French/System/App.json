@@ -1,0 +1,32 @@
+{
+  "signature": "P6Wqr0O2HQFOWULNW2ue97WcwIcarSpq9mumelxMXzwwiacc8VroCqnearjPHy3qakn1KolyAvYFuPTZUVBnjgfOPZP1TjeMhjzIyvGZooAvmGHqGtCMCraaI9MQx4JHOT2Y7jTYgVEdiMQh2c0QHFWq80Yy2qU7/iHHlxPWI3GVQVEgei6w3j9q2baxaT0Dkdc/IfUH159vUCEMf6bVBb3FrWoX7UdNi1NzmDXH+PIJOK/ZhMrmR9FHEJklnS5hY29Phs6aqJBK+ZtzudWsIRZNk2CtrbNOX/kMtS9Kajw5p+hbsb+uIWMxO2lf4m0aEkZoOUdhwoN0IF4AmGCrQg==",
+  "version": 1,
+  "advertisement": "",
+  "alarm": "",
+  "topics": [
+    {
+      "subject": 1,
+      "levels": 5,
+      "amount": 30,
+      "name": "Vocabulaire Anglais"
+    },
+    {
+      "subject": 2,
+      "levels": 4,
+      "amount": 40,
+      "name": "Santé"
+    },
+    {
+      "subject": 3,
+      "levels": 5,
+      "amount": 50,
+      "name": "Culture Générale"
+    },
+    {
+      "subject": 4,
+      "levels": 4,
+      "amount": 100,
+      "name": "Connaissances Pratiques"
+    }
+  ]
+}

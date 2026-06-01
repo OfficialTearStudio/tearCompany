@@ -1,0 +1,32 @@
+{
+  "signature": "Kfdq+lvMBo5ICH1HsPZcFJm01jYJNQfK5ssx6Fj5pp2yf/kott3fYOSPPrMujDvKHl9qGDkoK+T3eApjyGGP3cquSY7xbcOkZx61BuWwK2foihMOuWg4ho2B20fFwLdo4D8PYwOlpv5ZRW9JuqKSU/lvWimtOJXpfyahWxFC/V12sodTPWA4HhV4saHn8ANpiYZAs/8pd91NYl6PzsLka0lTsLsfHKLBAxEzz0kg5PJJQpc6/X6y9pC1Ahmc1BOwABTieg8JsDcR1A6a1HgDtLXvaicW8OpDIa64zI8asOVpL7lxYqB3USCtE3pEJbrg0RbiSjf5y6/WDpGQaa1gAg==",
+  "version": 1,
+  "advertisement": "",
+  "alarm": "",
+  "topics": [
+    {
+      "subject": 1,
+      "levels": 5,
+      "amount": 30,
+      "name": "English Vocabulary"
+    },
+    {
+      "subject": 2,
+      "levels": 4,
+      "amount": 40,
+      "name": "Health"
+    },
+    {
+      "subject": 3,
+      "levels": 5,
+      "amount": 50,
+      "name": "General Knowledge"
+    },
+    {
+      "subject": 4,
+      "levels": 4,
+      "amount": 100,
+      "name": "Common Sense"
+    }
+  ]
+}

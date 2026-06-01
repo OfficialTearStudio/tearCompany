@@ -1,0 +1,33 @@
+{
+  "signature": "UxOCWaSFjBetuWgdp2I7Wg0oypZHAho0tM1ZTxbPhegzcstkcyJh4rWoRYnKzwrjcj7W47b8EDiiIkKwgdRn+rcbi7umEjxZGUbAIRBvs7ZYYgiab/N9S+mJrooxf/9K1CKjyFIzMVwQiqfDlLeZqEZjtQHZUNI7h/Ej95MBWPyfT4VZFVxlk/DIRdc60pgjLpVK7KpxLeb+Ro3OB1551rchE73sfXPhAfy818vo65pkRujdLQa6plOcBP6cnELdSRLwxaMl5kxc+zwKJrvde8BvwOTfkiiGGCz7AbstFp5lg+4XUxBefS5ozKiLUwJUECb+VO/nhq/btrX0YDOGNA==",
+  "letter": [
+    { "logo": 1, "num": 8, "studio": "3", "day": "20260303", "title": "[Brief] 8. Eintrag: Schutz des Item-Wertes", "content": "Wir werden ein Marktumfeld schaffen, in dem der Wert von Anstrengungen anerkannt wird, statt unüberlegter Item-Verteilungen." },
+    { "logo": 1, "num": 7, "studio": "Tear Studio", "day": "20260302", "title": "[Brief] 7. Eintrag: Erste offizielle Woche abgeschlossen", "content": "Wir haben unsere erste Woche erfolgreich überstanden. Bitte freuen Sie sich heute Abend auf ein kleines Gedenkgeschenk." },
+    { "logo": 1, "num": 6, "studio": "Tear Studio", "day": "20260301", "title": "[Brief] 6. Eintrag: Der erste Märztag", "content": "Zum Beginn dieses neuen Monats entwerfen wir mit großer Begeisterung eine Roadmap für zukünftige Großupdates." },
+    { "logo": 1, "num": 5, "studio": "Tear Studio", "day": "20260228", "title": "[Brief] 5. Eintrag: Benutzerfreundlichkeit an erster Stelle", "content": "Wir strukturieren unsere komplexe Benutzeroberfläche um, um sie einfacher und intuitiver zu gestalten." },
+    { "logo": 1, "num": 4, "studio": "Tear Studio", "day": "20260227", "title": "[Brief] 4. Eintrag: Kommunikationskanäle geöffnet", "content": "Wir haben damit begonnen, auf Echtzeitanfragen über Discord und unsere offenen Kommunikationskanäle zu antworten." },
+    { "logo": 1, "num": 3, "studio": "Tear Studio", "day": "20260226", "title": "[Brief] 3. Eintrag: Beschleunigung der Stabilisierungsarbeiten", "content": "Wir mobilisieren all unsere Kräfte, um die Häufigkeit von Abstürzen und Verzögerungen zu minimieren." },
+    { "logo": 1, "num": 2, "studio": "Tear Studio", "day": "20260225", "title": "[Brief] 2. Eintrag: Herzlicher Empfang", "content": "Wir waren zutiefst gerührt über den enormen Andrang direkt zur Eröffnung. Wir erhöhen die Kanalanzahl für ein flüssigeres Spielgefühl." },
+    { "logo": 1, "num": 1, "studio": "Tear Studio", "day": "20260224", "title": "[Brief] 1. Eintrag: Ein neuer Anfang", "content": "Dies ist der allererste Schritt von Tear Studio. Wir freuen uns darauf, gemeinsam mit Ihnen Geschichte zu schreiben." }
+  ],
+  "contents": [
+    { "logo": 1, "num": 8, "studio": "3", "day": "20260303", "title": "[Inhalt] 8. Update: Dorflager-Erweiterung", "content": "Standardmäßig werden nun mehr Lagerplätze im Dorf bereitgestellt, damit Sie Ihre Gegenstände großzügiger verstauen können." },
+    { "logo": 1, "num": 7, "studio": "Tear Studio", "day": "20260302", "title": "[Inhalt] 7. Update: Erster Feldboss", "content": "Der Riesenwolf 'Fenrir' erscheint im Tal des Westwinds. Nehmen Sie die Herausforderung unseres allerersten Raids an." },
+    { "logo": 1, "num": 6, "studio": "Tear Studio", "day": "20260301", "title": "[Inhalt] 6. Update: März-Chroniken", "content": "Dies ist ein einmonatiges Anwesenheits- und Questevent anlässlich des neuen Monats." },
+    { "logo": 1, "num": 5, "studio": "Tear Studio", "day": "20260228", "title": "[Inhalt] 5. Update: Gemeinsames Lagersystem", "content": "Ein gemeinsames Lager wurde eröffnet, das den freien Austausch von Gegenständen zwischen den Charakteren Ihres Kontos ermöglicht." },
+    { "logo": 1, "num": 4, "studio": "Tear Studio", "day": "20260227", "title": "[Inhalt] 4. Update: Freundschaftspunkte", "content": "Kaufen Sie spezielle Verbrauchsgegenstände im Laden mit Punkten, die Sie beim gemeinsamen Spielen in einer Gruppe verdienen." },
+    { "logo": 1, "num": 3, "studio": "Tear Studio", "day": "20260226", "title": "[Inhalt] 3. Update: Automatisches Laufen", "content": "Eine Komfortfunktion wurde hinzugefügt, mit der Sie sich orientieren und automatisch zum Ziel Ihrer Quest laufen können." },
+    { "logo": 1, "num": 2, "studio": "Tear Studio", "day": "20260225", "title": "[Inhalt] 2. Update: Tägliche Quests", "content": "Erhalten Sie lebenswichtige Fortschrittsmaterialien durch fünf Arten von täglichen Missionen, die jeden Tag zurückgesetzt werden." },
+    { "logo": 1, "num": 1, "studio": "Tear Studio", "day": "20260224", "title": "[Inhalt] 1. Update: Veröffentlichungs-Cinematic", "content": "Ein grandioses Eröffnungsvideo wurde hinzugefügt, um alle Abenteurer zu begrüßen, die ihre Reise beginnen." }
+  ],
+  "fixes": [
+    { "logo": 1, "num": 8, "studio": "3", "day": "20260303", "title": "[Patch] 8. Behebung", "content": "Es wurde ein Problem behoben, bei dem das Mengeneingabefenster beim Entnehmen von Gegenständen aus dem Dorflager verschwand." },
+    { "logo": 1, "num": 7, "studio": "Tear Studio", "day": "20260302", "title": "[Patch] 7. Behebung", "content": "Die Balance des Wutschadens des Bosses Fenrir wurde angepasst, da dieser zuvor übermäßig stark war." },
+    { "logo": 1, "num": 6, "studio": "Tear Studio", "day": "20260301", "title": "[Patch] 6. Behebung", "content": "Ein Fehler wurde behoben, bei dem der NSC nach Abschluss von Eventquests verschwand und das Abholen der Belohnungen verhinderte." },
+    { "logo": 1, "num": 5, "studio": "Tear Studio", "day": "20260228", "title": "[Patch] 5. Behebung", "content": "Ein Fehler wurde behoben, bei dem Goldstücke bei der Nutzung des gemeinsamen Lagers ungewöhnlich verdampften." },
+    { "logo": 1, "num": 4, "studio": "Tear Studio", "day": "20260227", "title": "[Patch] 4. Behebung", "content": "Ein Synchronisationsproblem wurde gelöst, bei dem Freundschaftspunkte unter Gruppenmitgliedern unterschiedlich verteilt wurden." },
+    { "logo": 1, "num": 3, "studio": "Tear Studio", "day": "20260226", "title": "[Patch] 3. Behebung", "content": "Die Logik des automatischen Laufens wurde verbessert, da zuvor wiederholtes Springen auf steilem Gelände die Bewegung verlangsamte." },
+    { "logo": 1, "num": 2, "studio": "Tear Studio", "day": "20260225", "title": "[Patch] 2. Behebung", "content": "Ein Fehler wurde behoben, bei dem die Liste der täglichen Quests nicht um 4:00 Uhr morgens aktualisiert wurde." },
+    { "logo": 1, "num": 1, "studio": "Tear Studio", "day": "20260224", "title": "[Patch] 1. Behebung", "content": "Ein Tonproblem im Eröffnungsvideo bei bestimmten fehlenden Codecs wurde behoben." }
+  ]
+}

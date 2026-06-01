@@ -1,0 +1,780 @@
+{
+  "signature": "HaN9mwKMP2AjPQ4RdCNG7jvSM3mH1K8KByYxQAeL6U/DlIwwXTpjj9eJYhRuKZymmuoNQWrmnnrqjUc/W9+13yQ6JdjCJN4FwYNKZ4G66LspCfZA1Vv/3oZjI8Re4vyWCpB3uGAbT2XFcbbIMyPZu6oJjK5XvAkY1YZgSGKaz2TsUG+zY1OB/n769zdNyrDi1LCgTvRQu2qLSj3VgcH8IbGDyUP5KiU3pGdJz8b8q8MM73ZbneNQ4/koh8u8VucB9SM+CsXrKdFTi7k5QXkiBpTmbM6SSu1ygyHjhY1IRJB39DZqgIRJk6tSCn0hw9fo9dt9FsOVZrh0fY3IVrOrsg==",
+  "lastPage_letter": 9,
+  "lastPage_contents": 5,
+  "lastPage_fixes": 4,
+  "letter": [
+    {
+      "logo": 1,
+      "num": 64,
+      "studio": "2",
+      "day": "20260428",
+      "title": "[Letter] 64th Record: App Optimization Progress",
+      "content": "An energy-saving mode that reduces battery consumption by 15% will be applied in the next patch."
+    },
+    {
+      "logo": 1,
+      "num": 63,
+      "studio": "Tear Studio",
+      "day": "20260427",
+      "title": "[Letter] 63rd Record: OST Production Behind Story",
+      "content": "Revealing the recording scene of our main theme song 'Tears of Reunion', collaborated with a famous orchestra."
+    },
+    {
+      "logo": 1,
+      "num": 62,
+      "studio": "Tear Studio",
+      "day": "20260426",
+      "title": "[Letter] 62nd Record: Traveler Support Campaign",
+      "content": "To help you experience a wider world, we are temporarily making world map warp costs free."
+    },
+    {
+      "logo": 1,
+      "num": 61,
+      "studio": "Tear Studio",
+      "day": "20260425",
+      "title": "[Letter] 61st Record: Guild War Balance Adjustment",
+      "content": "We have slightly increased the attack power of siege weapons to mitigate the overwhelming advantage of the defending side."
+    },
+    {
+      "logo": 1,
+      "num": 60,
+      "studio": "Tear Studio",
+      "day": "20260424",
+      "title": "[Letter] 60th Record: Milestone of Sixty",
+      "content": "The number 60 carries great weight. Tear Studio will continue to work hard without losing our initial resolution."
+    },
+    {
+      "logo": 1,
+      "num": 59,
+      "studio": "Tear Studio",
+      "day": "20260423",
+      "title": "[Letter] 59th Record: Bulk Enhancement System",
+      "content": "We have finally completed development of the bulk equipment enhancement feature requested by many players."
+    },
+    {
+      "logo": 1,
+      "num": 58,
+      "studio": "Tear Studio",
+      "day": "20260422",
+      "title": "[Letter] 58th Record: Earth Day Campaign",
+      "content": "Complete the in-game trash collection quest to earn the special 'Blue Earth' title."
+    },
+    {
+      "logo": 1,
+      "num": 57,
+      "studio": "Tear Studio",
+      "day": "20260421",
+      "title": "[Letter] 57th Record: Hardware Acceleration Option",
+      "content": "We have added a hardware acceleration option to maximize the performance of your latest GPU."
+    },
+    {
+      "logo": 1,
+      "num": 56,
+      "studio": "Tear Studio",
+      "day": "20260420",
+      "title": "[Letter] 56th Record: Awareness Campaign",
+      "content": "We are conducting a small but meaningful donation event to build a better world together."
+    },
+    {
+      "logo": 1,
+      "num": 55,
+      "studio": "Tear Studio",
+      "day": "20260419",
+      "title": "[Letter] 55th Record: Cherry Blossom Festival Ends",
+      "content": "The beautiful cherry blossom season is ending. Please make sure to exchange your collected petals within the period."
+    },
+    {
+      "logo": 1,
+      "num": 54,
+      "studio": "Tear Studio",
+      "day": "20260418",
+      "title": "[Letter] 54th Record: New Class Teasing",
+      "content": "The Spellsword, a charming class that masters both sword and magic, is coming to you very soon."
+    },
+    {
+      "logo": 1,
+      "num": 53,
+      "studio": "Tear Studio",
+      "day": "20260417",
+      "title": "[Letter] 53rd Record: Security System Enhancement",
+      "content": "We are diversifying two-factor authentication methods to fundamentally prevent the risk of account theft."
+    },
+    {
+      "logo": 1,
+      "num": 52,
+      "studio": "Tear Studio",
+      "day": "20260416",
+      "title": "[Letter] 52nd Record: Silent Day of Remembrance",
+      "content": "We hope you enjoy the game in a calm and quiet atmosphere today."
+    },
+    {
+      "logo": 1,
+      "num": 51,
+      "studio": "Tear Studio",
+      "day": "20260415",
+      "title": "[Letter] 51st Record: Your Valuable Vote",
+      "content": "Exercise your valuable right to vote. A small commemorative gift will be given upon verifying your participation."
+    },
+    {
+      "logo": 1,
+      "num": 50,
+      "studio": "Tear Studio",
+      "day": "20260414",
+      "title": "[Letter] 50th Record: Halfway Success",
+      "content": "Celebrating our 50th record, we have sent a Legendary Grade Guaranteed Ticket to all players."
+    },
+    {
+      "logo": 1,
+      "num": 49,
+      "studio": "Tear Studio",
+      "day": "20260413",
+      "title": "[Letter] 49th Record: Black Day Special Event",
+      "content": "It is okay to be alone! Eat Jajangmyeon in-game to receive a useful attack power buff."
+    },
+    {
+      "logo": 1,
+      "num": 48,
+      "studio": "Tear Studio",
+      "day": "20260412",
+      "title": "[Letter] 48th Record: Text Readability Improvement",
+      "content": "To reduce eye fatigue, we have replaced the system font with a high-resolution pixel font."
+    },
+    {
+      "logo": 1,
+      "num": 47,
+      "studio": "Tear Studio",
+      "day": "20260411",
+      "title": "[Letter] 47th Record: Weekend Gold Dungeon",
+      "content": "An opportunity to stock up on gold! The number of weekend gold dungeon entries will be increased."
+    },
+    {
+      "logo": 1,
+      "num": 46,
+      "studio": "Tear Studio",
+      "day": "20260410",
+      "title": "[Letter] 46th Record: Chat Input Issue Fixed",
+      "content": "Resolved an issue where the keyboard would suddenly disappear when typing chat on certain devices."
+    },
+    {
+      "logo": 1,
+      "num": 45,
+      "studio": "Tear Studio",
+      "day": "20260409",
+      "title": "[Letter] 45th Record: Welcoming New Friends",
+      "content": "The influx of new users is increasing. We kindly ask for your warm guidance and support."
+    },
+    {
+      "logo": 1,
+      "num": 44,
+      "studio": "Tear Studio",
+      "day": "20260408",
+      "title": "[Letter] 44th Record: Dismantle Efficiency Boost",
+      "content": "We have doubled the amount of Magic Essence obtained when dismantling highly enhanced equipment."
+    },
+    {
+      "logo": 1,
+      "num": 43,
+      "studio": "Tear Studio",
+      "day": "20260407",
+      "title": "[Letter] 43rd Record: World Health Day Discount",
+      "content": "Wishing you good health! All recovery potions in the shop will be sold at a 50% discount."
+    },
+    {
+      "logo": 1,
+      "num": 42,
+      "studio": "Tear Studio",
+      "day": "20260406",
+      "title": "[Letter] 42nd Record: Energetic Monday",
+      "content": "Thank you for starting your week with us. Here is a small energy drink reward for everyone."
+    },
+    {
+      "logo": 1,
+      "num": 41,
+      "studio": "Tear Studio",
+      "day": "20260405",
+      "title": "[Letter] 41st Record: Arbor Day Tree Planting",
+      "content": "Protect the environment in the virtual world too! Plant a tree and earn unique rewards."
+    },
+    {
+      "logo": 1,
+      "num": 40,
+      "studio": "Tear Studio",
+      "day": "20260404",
+      "title": "[Letter] 40th Record: Memories of 40 Floors",
+      "content": "Celebrating our 40th day together, we are revealing a special coupon code to show our gratitude."
+    },
+    {
+      "logo": 1,
+      "num": 39,
+      "studio": "Tear Studio",
+      "day": "20260403",
+      "title": "[Letter] 39th Record: Guild Warehouse Expansion",
+      "content": "We have expanded warehouse slots to allow guilds to manage assets more efficiently."
+    },
+    {
+      "logo": 1,
+      "num": 38,
+      "studio": "Tear Studio",
+      "day": "20260402",
+      "title": "[Letter] 38th Record: Server Stability Report",
+      "content": "We analyzed recent connection delays and have expanded our server hardware capacity."
+    },
+    {
+      "logo": 1,
+      "num": 37,
+      "studio": "Tear Studio",
+      "day": "20260401",
+      "title": "[Letter] 37th Record: April Fool's Prank",
+      "content": "For today only, operators' names will change into cute monsters. Do not be surprised!"
+    },
+    {
+      "logo": 1,
+      "num": 36,
+      "studio": "Tear Studio",
+      "day": "20260331",
+      "title": "[Letter] 36th Record: Wrapping up March",
+      "content": "As we wrap up March filled with warm spring vibes, we would like to share our plans for April."
+    },
+    {
+      "logo": 1,
+      "num": 35,
+      "studio": "Tear Studio",
+      "day": "20260330",
+      "title": "[Letter] 35th Record: Chat Filter Update",
+      "content": "To maintain a pleasant community, we have upgraded our profanity and abuse filter system."
+    },
+    {
+      "logo": 1,
+      "num": 34,
+      "studio": "Tear Studio",
+      "day": "20260329",
+      "title": "[Letter] 34th Record: Weekend Connection Rewards",
+      "content": "Connect this weekend to receive three additional enhancement stone pouches."
+    },
+    {
+      "logo": 1,
+      "num": 33,
+      "studio": "Tear Studio",
+      "day": "20260328",
+      "title": "[Letter] 33rd Record: Preparing Global Expansion",
+      "content": "We are expanding our language support features to meet users from a wider world."
+    }
+  ],
+  "contents": [
+    {
+      "logo": 1,
+      "num": 64,
+      "studio": "2",
+      "day": "20260428",
+      "title": "[Content] 64th Update: Mini-Game Introduced",
+      "content": "A highly addictive mini-game 'Tear Pang-Pang', matching and popping same-colored marbles, has been added."
+    },
+    {
+      "logo": 1,
+      "num": 63,
+      "studio": "Tear Studio",
+      "day": "20260427",
+      "title": "[Content] 63rd Update: Ancient Rune Engraving",
+      "content": "The 'Ancient Rune' system, allowing players to imbue weapons with powerful magic, has been updated."
+    },
+    {
+      "logo": 1,
+      "num": 62,
+      "studio": "Tear Studio",
+      "day": "20260426",
+      "title": "[Content] 62nd Update: Earth Golem Raid",
+      "content": "A colossal golem has emerged in the rocky mountains. Break through its formidable defense!"
+    },
+    {
+      "logo": 1,
+      "num": 61,
+      "studio": "Tear Studio",
+      "day": "20260425",
+      "title": "[Content] 61st Update: Guild Occupation Battle",
+      "content": "Every Saturday night, a guild war begins to claim the supreme territories."
+    },
+    {
+      "logo": 1,
+      "num": 60,
+      "studio": "Tear Studio",
+      "day": "20260424",
+      "title": "[Content] 60th Update: Chamber of Trials Opened",
+      "content": "The Chamber of Trials, where deadly traps await on every floor, is now open."
+    },
+    {
+      "logo": 1,
+      "num": 59,
+      "studio": "Tear Studio",
+      "day": "20260423",
+      "title": "[Content] 59th Update: Pet Expedition Team",
+      "content": "Send your sleeping pets on expeditions to gather valuable crafting materials."
+    },
+    {
+      "logo": 1,
+      "num": 58,
+      "studio": "Tear Studio",
+      "day": "20260422",
+      "title": "[Content] 58th Update: Eco-Purification Dungeon",
+      "content": "Purify the polluted forests and earn the blessing buffs of the forest spirits."
+    },
+    {
+      "logo": 1,
+      "num": 57,
+      "studio": "Tear Studio",
+      "day": "20260421",
+      "title": "[Content] 57th Update: Pegasus Evolution",
+      "content": "An ordinary horse can now receive divine energy to evolve into a flying Pegasus."
+    },
+    {
+      "logo": 1,
+      "num": 56,
+      "studio": "Tear Studio",
+      "day": "20260420",
+      "title": "[Content] 56th Update: Anonymous Mailbox",
+      "content": "Send an anonymous letter to someone. You might receive a surprising reward."
+    },
+    {
+      "logo": 1,
+      "num": 55,
+      "studio": "Tear Studio",
+      "day": "20260419",
+      "title": "[Content] 55th Update: Cherry Blossom Ending Shop",
+      "content": "A special shop has opened where you can purchase Legendary rewards using remaining cherry blossom points."
+    },
+    {
+      "logo": 1,
+      "num": 54,
+      "studio": "Tear Studio",
+      "day": "20260418",
+      "title": "[Content] 54th Update: Fractured Land Episode",
+      "content": "Explore mysterious caverns hidden deep within cracks formed by earthquakes."
+    },
+    {
+      "logo": 1,
+      "num": 53,
+      "studio": "Tear Studio",
+      "day": "20260417",
+      "title": "[Content] 53rd Update: Summon Skill Customization",
+      "content": "You can now select and enhance specific skills used by your summons based on your preference."
+    },
+    {
+      "logo": 1,
+      "num": 52,
+      "studio": "Tear Studio",
+      "day": "20260416",
+      "title": "[Content] 52nd Update: Quiet Meditation Forest",
+      "content": "A peaceful forest where experience points accumulate simply by resting without combat."
+    },
+    {
+      "logo": 1,
+      "num": 51,
+      "studio": "Tear Studio",
+      "day": "20260415",
+      "title": "[Content] 51st Update: Voting Emblem Reward",
+      "content": "A dedicated commemorative emblem will be given to all adventurers who exercised their right."
+    },
+    {
+      "logo": 1,
+      "num": 50,
+      "studio": "Tear Studio",
+      "day": "20260414",
+      "title": "[Content] 50th Update: Rebellion of Black Noodles",
+      "content": "Help the chef who ran away gather Jajangmyeon ingredients and obtain limited costumes."
+    },
+    {
+      "logo": 1,
+      "num": 49,
+      "studio": "Tear Studio",
+      "day": "20260413",
+      "title": "[Content] 49th Update: Equipment Set Effects",
+      "content": "A new system has been added where equipping gear from the same series activates special stat boosts."
+    },
+    {
+      "logo": 1,
+      "num": 48,
+      "studio": "Tear Studio",
+      "day": "20260412",
+      "title": "[Content] 48th Update: Jewel Storage Room",
+      "content": "A new dungeon where players can acquire large quantities of gems needed for gear engraving."
+    },
+    {
+      "logo": 1,
+      "num": 47,
+      "studio": "Tear Studio",
+      "day": "20260411",
+      "title": "[Content] 47th Update: Fishing Tournament",
+      "content": "The player who catches the largest fish will have their name posted in the town square for a week."
+    },
+    {
+      "logo": 1,
+      "num": 46,
+      "studio": "Tear Studio",
+      "day": "20260410",
+      "title": "[Content] 46th Update: Heroic Crafting Recipes",
+      "content": "Five new recipes have been added, allowing players to gather materials and craft powerful heroic gear."
+    },
+    {
+      "logo": 1,
+      "num": 45,
+      "studio": "Tear Studio",
+      "day": "20260409",
+      "title": "[Content] 45th Update: Misty Port Expedition",
+      "content": "Set sail to the port city to find treasures hidden by pirates deep inside the heavy fog."
+    },
+    {
+      "logo": 1,
+      "num": 44,
+      "studio": "Tear Studio",
+      "day": "20260408",
+      "title": "[Content] 44th Update: Bag Cleanup Butler",
+      "content": "A convenient feature that automatically sells or dismantles items below a set tier has been added."
+    },
+    {
+      "logo": 1,
+      "num": 43,
+      "studio": "Tear Studio",
+      "day": "20260407",
+      "title": "[Content] 43rd Update: Cooking System",
+      "content": "Cook various dishes using gathered ingredients to temporarily boost your stats."
+    },
+    {
+      "logo": 1,
+      "num": 42,
+      "studio": "Tear Studio",
+      "day": "20260406",
+      "title": "[Content] 42nd Update: Weekly Quest System",
+      "content": "Complete difficult weekly missions to earn large amounts of valuable progression rewards."
+    },
+    {
+      "logo": 1,
+      "num": 41,
+      "studio": "Tear Studio",
+      "day": "20260405",
+      "title": "[Content] 41st Update: Sapling Care Campaign",
+      "content": "Plant a sapling in your personal garden, take care of it, and harvest rare fruits."
+    },
+    {
+      "logo": 1,
+      "num": 40,
+      "studio": "Tear Studio",
+      "day": "20260404",
+      "title": "[Content] 40th Update: 40-Player Battle Royale",
+      "content": "An exciting survival mode has been added, fighting until only one final survivor remains."
+    },
+    {
+      "logo": 1,
+      "num": 39,
+      "studio": "Tear Studio",
+      "day": "20260403",
+      "title": "[Content] 39th Update: Rare Mount 'Griffin'",
+      "content": "The legendary Griffin, flying freely across sky and land, has been released as a new mount."
+    },
+    {
+      "logo": 1,
+      "num": 38,
+      "studio": "Tear Studio",
+      "day": "20260402",
+      "title": "[Content] 38th Update: Time Attack Dungeon",
+      "content": "Defeat the boss in the shortest time, record your rank, and claim honorable rewards."
+    },
+    {
+      "logo": 1,
+      "num": 37,
+      "studio": "Tear Studio",
+      "day": "20260401",
+      "title": "[Content] 37th Update: Colossal Slime Raid",
+      "content": "Defeat the colossal slime that appeared in the town center on April Fool's to receive costumes."
+    },
+    {
+      "logo": 1,
+      "num": 36,
+      "studio": "Tear Studio",
+      "day": "20260331",
+      "title": "[Content] 36th Update: PVP Season 1 Rewards",
+      "content": "The first official season has ended. Special cosmetic wings are awarded based on your final rank."
+    },
+    {
+      "logo": 1,
+      "num": 35,
+      "studio": "Tear Studio",
+      "day": "20260330",
+      "title": "[Content] 35th Update: Relic Awakening System",
+      "content": "Awaken sleeping ancient relics to permanently increase your character's basic attributes."
+    },
+    {
+      "logo": 1,
+      "num": 34,
+      "studio": "Tear Studio",
+      "day": "20260329",
+      "title": "[Content] 34th Update: Secret Shop Opens",
+      "content": "A traveling merchant appearing only at specific hours will sell extremely rare enhancement materials."
+    },
+    {
+      "logo": 1,
+      "num": 33,
+      "studio": "Tear Studio",
+      "day": "20260328",
+      "title": "[Content] 33rd Update: Treasure Map Hunt",
+      "content": "Gather fragments dropped from hunting to complete the map and locate the hidden vaults."
+    }
+  ],
+  "fixes": [
+    {
+      "logo": 1,
+      "num": 64,
+      "studio": "2",
+      "day": "20260428",
+      "title": "[Patch] 64th Patch Correction",
+      "content": "Fixed an issue where skill cooldowns would not reset correctly during network latency."
+    },
+    {
+      "logo": 1,
+      "num": 63,
+      "studio": "Tear Studio",
+      "day": "20260427",
+      "title": "[Patch] 63rd Patch Correction",
+      "content": "Resolved a problem where materials were abnormally consumed during rune engraving."
+    },
+    {
+      "logo": 1,
+      "num": 62,
+      "studio": "Tear Studio",
+      "day": "20260426",
+      "title": "[Patch] 62nd Patch Correction",
+      "content": "Fixed an issue where field boss spawn notification messages were not output."
+    },
+    {
+      "logo": 1,
+      "num": 61,
+      "studio": "Tear Studio",
+      "day": "20260425",
+      "title": "[Patch] 61st Patch Correction",
+      "content": "Adjusted excessive castle gate destruction visual effects during occupation battles."
+    },
+    {
+      "logo": 1,
+      "num": 60,
+      "studio": "Tear Studio",
+      "day": "20260424",
+      "title": "[Patch] 60th Patch Correction",
+      "content": "Fixed a terrain collider bug where monsters could get stuck on specific floors of trials."
+    },
+    {
+      "logo": 1,
+      "num": 59,
+      "studio": "Tear Studio",
+      "day": "20260423",
+      "title": "[Patch] 59th Patch Correction",
+      "content": "Fixed an error where inventory space shortage caused crashes when receiving pet expedition rewards."
+    },
+    {
+      "logo": 1,
+      "num": 58,
+      "studio": "Tear Studio",
+      "day": "20260422",
+      "title": "[Patch] 58th Patch Correction",
+      "content": "Fixed a bug where poison mist damage inside the purification dungeon bypassed character defense."
+    },
+    {
+      "logo": 1,
+      "num": 57,
+      "studio": "Tear Studio",
+      "day": "20260421",
+      "title": "[Patch] 57th Patch Correction",
+      "content": "Resolved a render issue where characters became invisible at specific altitudes while flying on Pegasus."
+    },
+    {
+      "logo": 1,
+      "num": 56,
+      "studio": "Tear Studio",
+      "day": "20260420",
+      "title": "[Patch] 56th Patch Correction",
+      "content": "Blocked a exploit where anonymous mailbox reward items could be claimed multiple times."
+    },
+    {
+      "logo": 1,
+      "num": 55,
+      "studio": "Tear Studio",
+      "day": "20260419",
+      "title": "[Patch] 55th Patch Correction",
+      "content": "Fixed a display error where the item list of the cherry blossom point shop did not refresh."
+    },
+    {
+      "logo": 1,
+      "num": 54,
+      "studio": "Tear Studio",
+      "day": "20260418",
+      "title": "[Patch] 54th Patch Correction",
+      "content": "Visually clarified the range of instant-kill mechanics among the patterns of the caverns boss."
+    },
+    {
+      "logo": 1,
+      "num": 53,
+      "studio": "Tear Studio",
+      "day": "20260417",
+      "title": "[Patch] 53rd Patch Correction",
+      "content": "Improved summon AI behavior where they would occasionally stop moving and fail to target monsters."
+    },
+    {
+      "logo": 1,
+      "num": 52,
+      "studio": "Tear Studio",
+      "day": "20260416",
+      "title": "[Patch] 52nd Patch Correction",
+      "content": "Fixed a bug where changing channels during meditation reset accumulated experience points."
+    },
+    {
+      "logo": 1,
+      "num": 51,
+      "studio": "Tear Studio",
+      "day": "20260415",
+      "title": "[Patch] 51st Patch Correction",
+      "content": "Resolved an issue where entering the voting event page occasionally resulted in a white screen."
+    },
+    {
+      "logo": 1,
+      "num": 50,
+      "studio": "Tear Studio",
+      "day": "20260414",
+      "title": "[Patch] 50th Patch Correction",
+      "content": "Fixed physics collision bugs with the event chef costume to reduce awkward animations."
+    },
+    {
+      "logo": 1,
+      "num": 49,
+      "studio": "Tear Studio",
+      "day": "20260413",
+      "title": "[Patch] 49th Patch Correction",
+      "content": "Corrected incorrectly stated stat boost values in the equipment set effect tooltip."
+    },
+    {
+      "logo": 1,
+      "num": 48,
+      "studio": "Tear Studio",
+      "day": "20260412",
+      "title": "[Patch] 48th Patch Correction",
+      "content": "Fixed a chronic loading issue where the loading bar stuck at 99% upon entering the jewel room."
+    },
+    {
+      "logo": 1,
+      "num": 47,
+      "studio": "Tear Studio",
+      "day": "20260411",
+      "title": "[Patch] 47th Patch Correction",
+      "content": "Adjusted the fishing bobber bite sound effects to prevent them from being drowned out by background noise."
+    },
+    {
+      "logo": 1,
+      "num": 46,
+      "studio": "Tear Studio",
+      "day": "20260410",
+      "title": "[Patch] 46th Patch Correction",
+      "content": "Downscaled the required quantity of alchemy powder for crafting heroic gear to a realistic level."
+    },
+    {
+      "logo": 1,
+      "num": 45,
+      "studio": "Tear Studio",
+      "day": "20260409",
+      "title": "[Patch] 45th Patch Correction",
+      "content": "Fixed a sound loop error where the misty port background music cut off awkwardly while looping."
+    },
+    {
+      "logo": 1,
+      "num": 44,
+      "studio": "Tear Studio",
+      "day": "20260408",
+      "title": "[Patch] 44th Patch Correction",
+      "content": "Resolved a critical bug where the bag cleanup butler dismantled locked equipment items."
+    },
+    {
+      "logo": 1,
+      "num": 43,
+      "studio": "Tear Studio",
+      "day": "20260407",
+      "title": "[Patch] 43rd Patch Correction",
+      "content": "Fixed an issue where cooking proficiency did not increase, and solved specific recipe crafting blocks."
+    },
+    {
+      "logo": 1,
+      "num": 42,
+      "studio": "Tear Studio",
+      "day": "20260406",
+      "title": "[Patch] 42nd Patch Correction",
+      "content": "Fixed a bug where weekly quest counts failed to reset or were counted double."
+    },
+    {
+      "logo": 1,
+      "num": 41,
+      "studio": "Tear Studio",
+      "day": "20260405",
+      "title": "[Patch] 41st Patch Correction",
+      "content": "Fixed an issue where the watering interaction on saplings was not touchable in mobile environments."
+    },
+    {
+      "logo": 1,
+      "num": 40,
+      "studio": "Tear Studio",
+      "day": "20260404",
+      "title": "[Patch] 40th Patch Correction",
+      "content": "Improved spectator mode UI where specific buttons blocked the screen while spectating."
+    },
+    {
+      "logo": 1,
+      "num": 39,
+      "studio": "Tear Studio",
+      "day": "20260403",
+      "title": "[Patch] 39th Patch Correction",
+      "content": "Fixed animation glitches where mount motions got tangled when using attack skills on a Griffin."
+    },
+    {
+      "logo": 1,
+      "num": 38,
+      "studio": "Tear Studio",
+      "day": "20260402",
+      "title": "[Patch] 38th Patch Correction",
+      "content": "Resolved a bug where millisecond values were omitted from the time attack ranking calculation."
+    },
+    {
+      "logo": 1,
+      "num": 37,
+      "studio": "Tear Studio",
+      "day": "20260401",
+      "title": "[Patch] 37th Patch Correction",
+      "content": "Fixed an issue where event chests dropped after defeating the colossal slime fell through the floor."
+    },
+    {
+      "logo": 1,
+      "num": 36,
+      "studio": "Tear Studio",
+      "day": "20260331",
+      "title": "[Patch] 36th Patch Correction",
+      "content": "Fixed a display error where previous season data was output when claiming PVP rewards."
+    },
+    {
+      "logo": 1,
+      "num": 35,
+      "studio": "Tear Studio",
+      "day": "20260330",
+      "title": "[Patch] 35th Patch Correction",
+      "content": "Resolved a stat value mismatch where gold consumed for relic enhancement differed from the warning window."
+    },
+    {
+      "logo": 1,
+      "num": 34,
+      "studio": "Tear Studio",
+      "day": "20260329",
+      "title": "[Patch] 34th Patch Correction",
+      "content": "Fixed a bug where secret shop item prices did not apply the discount rates."
+    },
+    {
+      "logo": 1,
+      "num": 33,
+      "studio": "Tear Studio",
+      "day": "20260328",
+      "title": "[Patch] 33rd Patch Correction",
+      "content": "Fixed a mapping error where treasure map location hints differed from their actual coordinate locations."
+    }
+  ]
+}

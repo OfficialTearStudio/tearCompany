@@ -1,0 +1,33 @@
+{
+  "signature": "tiRjA/K/SCeF8ADxNlsFm3+CNtGN4ALFIFKSzColRqWSGb3C5oyB3ll7+xhmWFDNH+Z/hBXaX/yCpebhcAh6zcbcgdarpo2WQIPeN4SwO92ARlRA0F3zpr6EiPeqdH0lcKv8KfS2/wO9VjO3szbu+aG8e682ydOxZf9hRwvQXDvmHba9gj2ax8s7R1ApocUIGTtutgiy6yX9S1wB0tM/t7DnbWkHjn2oifyrO9EMFggtiperxuBQuvjdt9ELKtJNGa8Ohmq0RBbTTZqcgXm3YDr3WuISot+N9I0hwuUJRVRQYkzhgV0sKvC19S41bPlRBELzALssuBQAzWYspafWWw==",
+  "letter": [
+    { "logo": 1, "num": 8, "studio": "3", "day": "20260303", "title": "[Lettre] 8e Message: Protection de la valeur des objets", "content": "Nous créerons un environnement de marché où la valeur des efforts est reconnue, plutôt qu'une distribution excessive et injustifiée d'objets." },
+    { "logo": 1, "num": 7, "studio": "Tear Studio", "day": "20260302", "title": "[Lettre] 7e Message: 1ère semaine d'ouverture officielle", "content": "Nous avons passé avec succès notre première semaine. Attendez-vous à un cadeau commémoratif ce soir." },
+    { "logo": 1, "num": 6, "studio": "Tear Studio", "day": "20260301", "title": "[Lettre] 6e Message: Premier jour de mars", "content": "Au début de ce nouveau mois, nous dessinons une feuille de route pour de futures mises à jour majeures avec beaucoup d'enthousiasme." },
+    { "logo": 1, "num": 5, "studio": "Tear Studio", "day": "20260228", "title": "[Lettre] 5e Message: Priorité à l'ergonomie", "content": "Nous sommes en train de restructurer notre interface utilisateur complexe pour la rendre plus simple et intuitive." },
+    { "logo": 1, "num": 4, "studio": "Tear Studio", "day": "20260227", "title": "[Lettre] 4e Message: Ouverture des canaux de communication", "content": "Nous avons commencé à répondre aux demandes en temps réel via Discord et notre chat ouvert." },
+    { "logo": 1, "num": 3, "studio": "Tear Studio", "day": "20260226", "title": "[Lettre] 3e Message: Effort maximal sur la stabilisation", "content": "Nous mobilisons toutes nos équipes pour réduire la fréquence des plantages et des ralentissements." },
+    { "logo": 1, "num": 2, "studio": "Tear Studio", "day": "20260225", "title": "[Lettre] 2e Message: Accueil chaleureux", "content": "Nous avons été profondément émus par l'afflux massif de joueurs dès l'ouverture. Nous augmentons le nombre de canaux pour un jeu plus fluide." },
+    { "logo": 1, "num": 1, "studio": "Tear Studio", "day": "20260224", "title": "[Lettre] 1er Message: Un nouveau départ", "content": "C'est le tout premier pas de Tear Studio. Nous allons écrire une longue et belle histoire à vos côtés." }
+  ],
+  "contents": [
+    { "logo": 1, "num": 8, "studio": "3", "day": "20260303", "title": "[Contenu] 8e Mise à jour: Extension de l'entrepôt du village", "content": "Des emplacements d'entrepôt de village sont désormais offerts par défaut afin de stocker vos objets plus généreusement." },
+    { "logo": 1, "num": 7, "studio": "Tear Studio", "day": "20260302", "title": "[Contenu] 7e Mise à jour: Premier boss de terrain", "content": "Le loup géant 'Fenrir' surgit dans la Vallée du Vent d'Ouest. Relevez le défi de notre tout premier raid." },
+    { "logo": 1, "num": 6, "studio": "Tear Studio", "day": "20260301", "title": "[Contenu] 6e Mise à jour: Chronique de mars", "content": "Il s'agit d'un événement de quêtes et de présence sur un mois complet à l'occasion du nouveau mois." },
+    { "logo": 1, "num": 5, "studio": "Tear Studio", "day": "20260228", "title": "[Contenu] 5e Mise à jour: Système d'entrepôt partagé", "content": "Un entrepôt partagé a été ouvert, permettant d'échanger des objets librement entre les différents personnages de votre compte." },
+    { "logo": 1, "num": 4, "studio": "Tear Studio", "day": "20260227", "title": "[Contenu] 4e Mise à jour: Points d'amitié", "content": "Achetez des consommables spéciaux dans la boutique avec les points accumulés en jouant en groupe avec vos amis." },
+    { "logo": 1, "num": 3, "studio": "Tear Studio", "day": "20260226", "title": "[Contenu] 3e Mise à jour: Déplacement automatique", "content": "Une fonction de confort a été ajoutée, permettant de s'orienter et de marcher automatiquement vers la destination de votre quête." },
+    { "logo": 1, "num": 2, "studio": "Tear Studio", "day": "20260225", "title": "[Contenu] 2e Mise à jour: Quêtes quotidiennes", "content": "Obtenez des matériaux indispensables à votre progression grâce à cinq types de missions quotidiennes réinitialisées chaque jour." },
+    { "logo": 1, "num": 1, "studio": "Tear Studio", "day": "20260224", "title": "[Contenu] 1ère Mise à jour: Cinématique de lancement", "content": "Une cinématique d'ouverture grandiose a été ajoutée pour accueillir tous les aventuriers qui débutent leur voyage." }
+  ],
+  "fixes": [
+    { "logo": 1, "num": 8, "studio": "3", "day": "20260303", "title": "[Correctif] 8e Correctif", "content": "Résolution du problème où la fenêtre de saisie de quantité disparaissait lors du retrait d'objets depuis l'entrepôt du village." },
+    { "logo": 1, "num": 7, "studio": "Tear Studio", "day": "20260302", "title": "[Correctif] 7e Correctif", "content": "Ajustement de l'équilibrage des dégâts de la compétence de rage du boss Fenrir, qui étaient trop puissants." },
+    { "logo": 1, "num": 6, "studio": "Tear Studio", "day": "20260301", "title": "[Correctif] 6e Correctif", "content": "Correction d'un problème où le PNJ disparaissait après avoir terminé des quêtes d'événement, empêchant de récupérer les récompenses." },
+    { "logo": 1, "num": 5, "studio": "Tear Studio", "day": "20260228", "title": "[Correctif] 5e Correctif", "content": "Correction d'un bug où des pièces d'or s'évaporaient anormalement lors de l'utilisation de l'entrepôt partagé." },
+    { "logo": 1, "num": 4, "studio": "Tear Studio", "day": "20260227", "title": "[Correctif] 4e Correctif", "content": "Résolution d'un problème de synchronisation où les points d'amitié étaient distribués différemment entre les membres du groupe." },
+    { "logo": 1, "num": 3, "studio": "Tear Studio", "day": "20260226", "title": "[Correctif] 3e Correctif", "content": "Amélioration de la logique de déplacement automatique où les sauts répétés sur des terrains escarpés ralentissaient la marche." },
+    { "logo": 1, "num": 2, "studio": "Tear Studio", "day": "20260225", "title": "[Correctif] 2e Correctif", "content": "Correction du bug où la liste des quêtes quotidiennes ne s'actualisait pas à 4h00 du matin." },
+    { "logo": 1, "num": 1, "studio": "Tear Studio", "day": "20260224", "title": "[Correctif] 1er Correctif", "content": "Correction d'un problème de son où l'audio ne fonctionnait pas pendant la cinématique de lancement dans certains environnements sans codecs spécifiques." }
+  ]
+}

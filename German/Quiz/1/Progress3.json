@@ -1,0 +1,185 @@
+{
+  "signature": "l0UsegR5gbYFA7/qms7JsOFkYg8JAUpi0hoSBALeK67MOIDwbw1vZI2jESQXwPq/YAT0M88BzRmzu2YQdamGrES3eLsL5NLREpT5N7lDzMPyHu78GknONEN7azvvLy/eFySvQmwUJi4bQWyI02aKE5MF4eJIkzP16eKjN7ptewqOM/DQpeB1pb9KIJevi7rc2ZHr47uCaJrgRI513+jmlUeZsOprS3GsY5WdfsRJQbk1MAJv9vr2yZ+n09Uu2GooHH9zrsiLRamzwRNk6efhc1W+x2PHRSb+i3UBy8tpXubAISkA+Hs8dHOlXJyN3FDeiQe8EXt9hURsT60N+WzkDg==",
+  "quizList": [
+    {
+      "number": 0,
+      "question": "subject_1_level_4",
+      "options": ["Kawabata Yasunari", "Tagore", "Oe Kenzaburo", "Gao Xingjian"],
+      "answer": "Tagore"
+    },
+    {
+      "number": 1,
+      "question": "Welcher Wissenschaftler entdeckte die Doppelhelixstruktur der DNA?",
+      "options": ["Mendel", "Watson & Crick", "Darwin", "Pasteur"],
+      "answer": "Watson & Crick"
+    },
+    {
+      "number": 2,
+      "question": "Was ist der längste Fluss der Welt?",
+      "options": ["Nil", "Amazonas", "Jangtse", "Mississippi"],
+      "answer": "Nil"
+    },
+    {
+      "number": 3,
+      "question": "Wer is KEIN typischer Komponist des Barock?",
+      "options": ["Bach", "Händel", "Beethoven", "Vivaldi"],
+      "answer": "Beethoven"
+    },
+    {
+      "number": 4,
+      "question": "Welches Element hat die Ordnungszahl 6?",
+      "options": ["Sauerstoff", "Stickstoff", "Kohlenstoff", "Wasserstoff"],
+      "answer": "Kohlenstoff"
+    },
+    {
+      "number": 5,
+      "question": "Wer malte 'Das Abendmahl' in der Renaissance?",
+      "options": ["Michelangelo", "Raffael", "Leonardo da Vinci", "Donatello"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "number": 6,
+      "question": "Welche Sprache ist KEINE Amtssprache der UN?",
+      "options": ["Deutsch", "Arabisch", "Chinesisch", "Russisch"],
+      "answer": "Deutsch"
+    },
+    {
+      "number": 7,
+      "question": "In welcher Phase der Photosynthese wird Sauerstoff freigesetzt?",
+      "options": ["Lichtreaktion", "Dunkelreaktion", "Calvin-Zyklus", "Krebs-Zyklus"],
+      "answer": "Lichtreaktion"
+    },
+    {
+      "number": 8,
+      "question": "Was ist das erste geschriebene Gesetzbuch der Welt?",
+      "options": ["Codex Hammurapi", "Zwölftafelgesetz", "Magna Carta", "Code Civil"],
+      "answer": "Codex Hammurapi"
+    },
+    {
+      "number": 9,
+      "question": "Welcher Chemiker erstellte das Periodensystem?",
+      "options": ["Lavoisier", "Mendelejew", "Dalton", "Avogadro"],
+      "answer": "Mendelejew"
+    },
+    {
+      "number": 10,
+      "question": "Was ist der größte Planet in unserem Sonnensystem?",
+      "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+      "answer": "Jupiter"
+    },
+    {
+      "number": 11,
+      "question": "Welches Ereignis markierte den Beginn der Französischen Revolution?",
+      "options": ["Sturm auf Versailles", "Sturm auf die Bastille", "Besetzung des Louvre", "Besetzung von Notre-Dame"],
+      "answer": "Sturm auf die Bastille"
+    },
+    {
+      "number": 12,
+      "question": "Welcher Astronom modernisierte und systematisierte das heliozentrische Weltbild?",
+      "options": ["Aristoteles", "Kopernikus", "Newton", "Ptolemäus"],
+      "answer": "Kopernikus"
+    },
+    {
+      "number": 13,
+      "question": "Was ist der höchste Berg der Welt?",
+      "options": ["K2", "Mount Everest", "Kilimandscharo", "Anden"],
+      "answer": "Mount Everest"
+    },
+    {
+      "number": 14,
+      "question": "Wer prägte den Begriff der 'unsichtbaren Hand' in der Wirtschaft?",
+      "options": ["Keynes", "Adam Smith", "Marx", "Friedman"],
+      "answer": "Adam Smith"
+    },
+    {
+      "number": 15,
+      "question": "Welcher Vater der Informatik entschlüsselte den Enigma-Code?",
+      "options": ["Newton", "Alan Turing", "Hawking", "Darwin"],
+      "answer": "Alan Turing"
+    },
+    {
+      "number": 16,
+      "question": "Welche Krankheit wird durch Vitamin-C-Mangel verursacht?",
+      "options": ["Nachtblindheit", "Skorbut", "Beriberi", "Rachitis"],
+      "answer": "Skorbut"
+    },
+    {
+      "number": 17,
+      "question": "Welcher koreanische General siegte im Imjin-Krieg mithilfe von Schildkrötenschiffen (Geobukseon)?",
+      "options": ["Kim Yu-sin", "Yi Sun-sin", "Eulji Mundeok", "Gang Gam-chan"],
+      "answer": "Yi Sun-sin"
+    },
+    {
+      "number": 18,
+      "question": "Welcher britische Dramatiker schrieb die Vier Großen Tragödien (Hamlet usw.)?",
+      "options": ["Dickens", "Shakespeare", "George Orwell", "Somerset Maugham"],
+      "answer": "Shakespeare"
+    },
+    {
+      "number": 19,
+      "question": "Wer betrat als erster mensch die Mondoberfläche?",
+      "options": ["Juri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Michael Collins"],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "number": 20,
+      "question": "Wie lautet der Beiname von Beethovens 5. Sinfonie?",
+      "options": ["Eroica", "Schicksalssinfonie", "Pastorale", "Chorsinfonie"],
+      "answer": "Schicksalssinfonie"
+    },
+    {
+      "number": 21,
+      "question": "Welches Stadttor ist als Nationalheiligtum Nr. 1 von Südkorea klassifiziert?",
+      "options": ["Heunginjimun", "Sungnyemun", "Doneuimun", "Sukjeongmun"],
+      "answer": "Sungnyemun"
+    },
+    {
+      "number": 22,
+      "question": "Welches physikalische Phänomen steht im Mittelpunkt der Atomenergiegewinnung?",
+      "options": ["Kernfusion", "Kernspaltung", "Chemische Reaktion", "Verbrennung"],
+      "answer": "Kernspaltung"
+    },
+    {
+      "number": 23,
+      "question": "Welche Zivilisation gehört NICHT zu den vier großen Hochkulturen der Antike?",
+      "options": ["Mesopotamien", "Ägypten", "Indus", "Inka"],
+      "answer": "Inka"
+    },
+    {
+      "number": 24,
+      "question": "Welche Blutgruppe gilt als 'Universalspender'?",
+      "options": ["Blutgruppe A", "Blutgruppe B", "Blutgruppe AB", "Blutgruppe 0"],
+      "answer": "Blutgruppe 0"
+    },
+    {
+      "number": 25,
+      "question": "Wer war der erste Präsident der Vereinigten Staaten?",
+      "options": ["Jefferson", "Lincoln", "George Washington", "Franklin"],
+      "answer": "George Washington"
+    },
+    {
+      "number": 26,
+      "question": "Wie lautet das erste Newtonsche Gesetz?",
+      "options": ["Trägheitsprinzip", "Aktionsprinzip", "Wechselwirkungsprinzip", "Gravitationsgesetz"],
+      "answer": "Trägheitsprinzip"
+    },
+    {
+      "number": 27,
+      "question": "Welches ökonomische Phänomen beschreibt den kontinuierlichen Anstieg des Preisniveaus?",
+      "options": ["Deflation", "Inflation", "Stagflation", "Rezession"],
+      "answer": "Inflation"
+    },
+    {
+      "number": 28,
+      "question": "Was symbolisieren die fünf Ringe der olympischen Flagge?",
+      "options": ["5 Weltmeere", "5 Kontinente", "5 Sportarten", "5 erste Gastgeberstädte"],
+      "answer": "5 Kontinente"
+    },
+    {
+      "number": 29,
+      "question": "Wer schrieb die weltberühmte Erzählung 'Der kleine Prinz'?",
+      "options": ["Camus", "Antoine de Saint-Exupéry", "Victor Hugo", "Maupassant"],
+      "answer": "Antoine de Saint-Exupéry"
+    }
+  ]
+}

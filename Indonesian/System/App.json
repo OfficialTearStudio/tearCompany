@@ -1,0 +1,32 @@
+{
+  "signature": "munBcOyHLj20YPcqNqZCV2+ZsjU64VItyYmwI9oYQzOqZEmHUkBBNNXIa8HGNY8YtrTfkegZSUVUKaUbZDqsrAXT9355oiRgOr24gjlzRNbo+waNoTeo7xsfSNkkiWfyrgjR0ebYSOIUo+KsmppUahXZGEztsCWi3PdxBbJi1l3Eif6rzCKDHfN4cpMUmI3ByWj2hjPvto3y1wTCyP0XYsRRBZQhFue6AMHsfthY1qkkWtIHX/GLzNetb1lwpsvHt+0Jv/sWwJa4+XSRqiQZXN1/asq2EACW9Vk75h5INY30G9Lube+c9z+I8q0VsOeGIa+IcSJpmGFFDTsywswZTQ==",
+  "version": 1,
+  "advertisement": "",
+  "alarm": "",
+  "topics": [
+    {
+      "subject": 1,
+      "levels": 5,
+      "amount": 30,
+      "name": "영단어"
+    },
+    {
+      "subject": 2,
+      "levels": 4,
+      "amount": 40,
+      "name": "건강"
+    },
+    {
+      "subject": 3,
+      "levels": 5,
+      "amount": 50,
+      "name": "기본상식"
+    },
+    {
+      "subject": 4,
+      "levels": 4,
+      "amount": 100,
+      "name": "생활상식"
+    }
+  ]
+}

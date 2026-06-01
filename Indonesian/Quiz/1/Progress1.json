@@ -1,0 +1,335 @@
+{
+  "signature": "NH3efnXB0pmOELXZV3GuB4UiSXPw2ZTn2K0vnf6lqfce934FYjdF8S9/1T7FutQSoF7htUmvRXXdV20eklN4laSqSsYJ7OSakBDRANiSNvcFl0VN4RSxtwuaxr2WzFx2Qjp7ZEESCu3POuWKISopAzS9g0zzgzpQAhatKu329GCSfWLScyPjpYTdGuabYblR25D99FqugKTJY8G/4+XrzCtBqxLrYYSzmqyPB4vohAfgNjVlBQLqi4i81nzi/hU4mrXjpg5Q8JpQbnPU+MU6V2LZjYGUoXF5FNxM+CajK4zEIuxHtaoQWcNDZsVkj8/Dk2CCzAgLMNvDzUfXr5YV9w==",
+  "quizList": [
+    {
+      "number": 0,
+      "question": "subject_1_level_2",
+      "options": [
+        "Kawabata Yasunari",
+        "Tagore",
+        "Oe Kenzaburo",
+        "Gao Xingjian"
+      ],
+      "answer": "Tagore"
+    },
+    {
+      "number": 1,
+      "question": "Which scientist discovered the double-helix structure of DNA?",
+      "options": [
+        "Mendel",
+        "Watson & Crick",
+        "Darwin",
+        "Pasteur"
+      ],
+      "answer": "Watson & Crick"
+    },
+    {
+      "number": 2,
+      "question": "What is the longest river in the world?",
+      "options": [
+        "Nile River",
+        "Amazon River",
+        "Yangtze River",
+        "Mississippi River"
+      ],
+      "answer": "Nile River"
+    },
+    {
+      "number": 3,
+      "question": "Who is NOT a representative composer of the Baroque era?",
+      "options": [
+        "Bach",
+        "Handel",
+        "Beethoven",
+        "Vivaldi"
+      ],
+      "answer": "Beethoven"
+    },
+    {
+      "number": 4,
+      "question": "Which element has atomic number 6?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "number": 5,
+      "question": "Who painted 'The Last Supper' during the Renaissance?",
+      "options": [
+        "Michelangelo",
+        "Raphael",
+        "Leonardo da Vinci",
+        "Donatello"
+      ],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "number": 6,
+      "question": "Which of the following is NOT an official language of the UN?",
+      "options": [
+        "German",
+        "Arabic",
+        "Chinese",
+        "Russian"
+      ],
+      "answer": "German"
+    },
+    {
+      "number": 7,
+      "question": "In which stage of photosynthesis is oxygen released?",
+      "options": [
+        "Light reactions",
+        "Dark reactions",
+        "Calvin cycle",
+        "Krebs cycle"
+      ],
+      "answer": "Light reactions"
+    },
+    {
+      "number": 8,
+      "question": "What is the world's first written code of law?",
+      "options": [
+        "Code of Hammurabi",
+        "Twelve Tables",
+        "Magna Carta",
+        "Napoleonic Code"
+      ],
+      "answer": "Code of Hammurabi"
+    },
+    {
+      "number": 9,
+      "question": "Which chemist created the periodic table?",
+      "options": [
+        "Lavoisier",
+        "Mendeleev",
+        "Dalton",
+        "Avogadro"
+      ],
+      "answer": "Mendeleev"
+    },
+    {
+      "number": 10,
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "number": 11,
+      "question": "Which event marked the beginning of the French Revolution?",
+      "options": [
+        "Attack on Versailles",
+        "Storming of the Bastille",
+        "Occupation of Louvre",
+        "Occupation of Notre-Dame"
+      ],
+      "answer": "Storming of the Bastille"
+    },
+    {
+      "number": 12,
+      "question": "Which astronomer modernized and systematized heliocentrism?",
+      "options": [
+        "Aristotle",
+        "Copernicus",
+        "Newton",
+        "Ptolemy"
+      ],
+      "answer": "Copernicus"
+    },
+    {
+      "number": 13,
+      "question": "What is the highest mountain in the world?",
+      "options": [
+        "K2",
+        "Mount Everest",
+        "Kilimanjaro",
+        "Andes"
+      ],
+      "answer": "Mount Everest"
+    },
+    {
+      "number": 14,
+      "question": "Who introduced the concept of the 'invisible hand' in economics?",
+      "options": [
+        "Keynes",
+        "Adam Smith",
+        "Marx",
+        "Friedman"
+      ],
+      "answer": "Adam Smith"
+    },
+    {
+      "number": 15,
+      "question": "Who is the father of computer science who cracked the Enigma code?",
+      "options": [
+        "Newton",
+        "Alan Turing",
+        "Stephen Hawking",
+        "Darwin"
+      ],
+      "answer": "Alan Turing"
+    },
+    {
+      "number": 16,
+      "question": "Which disease is caused by a vitamin C deficiency?",
+      "options": [
+        "Night blindness",
+        "Scurvy",
+        "Beriberi",
+        "Rickets"
+      ],
+      "answer": "Scurvy"
+    },
+    {
+      "number": 17,
+      "question": "Which general won victories using the Turtle Ship during the Imjin War?",
+      "options": [
+        "Kim Yu-sin",
+        "Yi Sun-sin",
+        "Eulji Mundeok",
+        "Gang Gam-chan"
+      ],
+      "answer": "Yi Sun-sin"
+    },
+    {
+      "number": 18,
+      "question": "Which British playwright wrote the Four Great Tragedies (Hamlet, etc.)?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "George Orwell",
+        "Somerset Maugham"
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "number": 19,
+      "question": "Who was the first human to step onto the surface of the Moon?",
+      "options": [
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Michael Collins"
+      ],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "number": 20,
+      "question": "What is the nickname of Beethoven's Symphony No. 5?",
+      "options": [
+        "Heroic",
+        "Destiny",
+        "Pastoral",
+        "Choral"
+      ],
+      "answer": "Destiny"
+    },
+    {
+      "number": 21,
+      "question": "Which gate is designated as South Korea's National Treasure No. 1?",
+      "options": [
+        "Heunginjimun",
+        "Sungnyemun",
+        "Doneuimun",
+        "Sukjeongmun"
+      ],
+      "answer": "Sungnyemun"
+    },
+    {
+      "number": 22,
+      "question": "What phenomenon is at the core of nuclear power generation?",
+      "options": [
+        "Nuclear fusion",
+        "Nuclear fission",
+        "Chemical reaction",
+        "Combustion"
+      ],
+      "answer": "Nuclear fission"
+    },
+    {
+      "number": 23,
+      "question": "Which of the following is NOT included in the four major ancient civilizations?",
+      "options": [
+        "Mesopotamia",
+        "Egypt",
+        "Indus",
+        "Inca"
+      ],
+      "answer": "Inca"
+    },
+    {
+      "number": 24,
+      "question": "Which blood type is the 'universal donor' that can be given to anyone?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type AB",
+        "Type O"
+      ],
+      "answer": "Type O"
+    },
+    {
+      "number": 25,
+      "question": "Who was the first president of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "George Washington",
+        "Benjamin Franklin"
+      ],
+      "answer": "George Washington"
+    },
+    {
+      "number": 26,
+      "question": "What is Newton's first law of motion?",
+      "options": [
+        "Law of inertia",
+        "Law of acceleration",
+        "Action and reaction",
+        "Law of universal gravitation"
+      ],
+      "answer": "Law of inertia"
+    },
+    {
+      "number": 27,
+      "question": "What economic phenomenon is characterized by a continuous rise in prices?",
+      "options": [
+        "Deflation",
+        "Inflation",
+        "Stagflation",
+        "Recession"
+      ],
+      "answer": "Inflation"
+    },
+    {
+      "number": 28,
+      "question": "What do the five rings of the Olympic flag symbolize?",
+      "options": [
+        "5 Oceans",
+        "5 Continents",
+        "5 Sports",
+        "5 Host Cities"
+      ],
+      "answer": "5 Continents"
+    },
+    {
+      "number": 29,
+      "question": "Who wrote the novel 'The Little Prince'?",
+      "options": [
+        "Albert Camus",
+        "Antoine de Saint-Exupéry",
+        "Victor Hugo",
+        "Guy de Mobassant"
+      ],
+      "answer": "Antoine de Saint-Exupéry"
+    }
+  ]
+}

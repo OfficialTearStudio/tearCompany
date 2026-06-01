@@ -1,0 +1,201 @@
+{
+  "signature": "cQKYUIIbQAWqOh1v9tmb46P+rqBPqlGk/bgwoxeO34ryGcln4Pm+6jrrAQE55eQBafXsNdQeVfiZYh6TblCYeEVxOnsE6x6KVdbrltIssITWMw54CCs1cYcUDi+WgeTyZlxLoRcidbFx95IKc8yaAudfHfGN2JifXcYEU7I7RAOq+P4Yxj3uudd3zoPMXX86olIWRgwdNOncqH673vXiRlB+FiBF6PdAIERXusfyfEoSW2wNayNZZS+lx0YncAyopxjzRB0ELLBltaN9m1pgYYWsEi/7lpkl6UqFdrGQIEDSDu/YqTqpbq1BOZ93tEatdpyqDgO8JZ0dW36Jvzip1g==",
+  "letter": [
+    {
+      "logo": 1,
+      "num": 8,
+      "studio": "Tear Studio",
+      "day": "20260303",
+      "title": "[Letter] 8th Record: Item Value Protection",
+      "content": "We will create a market environment where the value of effort is recognized rather than indiscriminate item distribution."
+    },
+    {
+      "logo": 1,
+      "num": 7,
+      "studio": "Tear Studio",
+      "day": "20260302",
+      "title": "[Letter] 7th Record: 1 Week Since Official Open",
+      "content": "We successfully spent our first week. Please look forward to our commemorative gift this evening."
+    },
+    {
+      "logo": 1,
+      "num": 6,
+      "studio": "Tear Studio",
+      "day": "20260301",
+      "title": "[Letter] 6th Record: 1st Day of March",
+      "content": "Starting a new month, we are drawing up a massive update roadmap with an excited heart."
+    },
+    {
+      "logo": 1,
+      "num": 5,
+      "studio": "Tear Studio",
+      "day": "20260228",
+      "title": "[Letter] 5th Record: User Convenience First",
+      "content": "We are reorganizing the complex UI to be as simple and intuitive as possible."
+    },
+    {
+      "logo": 1,
+      "num": 4,
+      "studio": "Tear Studio",
+      "day": "20260227",
+      "title": "[Letter] 4th Record: Communication Channels Open",
+      "content": "We have started responding to real-time inquiries through Discord and open channels."
+    },
+    {
+      "logo": 1,
+      "num": 3,
+      "studio": "Tear Studio",
+      "day": "20260226",
+      "title": "[Letter] 3rd Record: Accelerated Stabilization Work",
+      "content": "We are devoting all our manpower to reducing the frequency of crashes and lag."
+    },
+    {
+      "logo": 1,
+      "num": 2,
+      "studio": "Tear Studio",
+      "day": "20260225",
+      "title": "[Letter] 2nd Record: A Warm Welcome",
+      "content": "We were deeply moved by the crowd immediately after the opening. We are expanding channels for smooth play."
+    },
+    {
+      "logo": 1,
+      "num": 1,
+      "studio": "Tear Studio",
+      "day": "20260224",
+      "title": "[Letter] 1st Record: A New Beginning",
+      "content": "This is Tear Studio's first step. We will write a long history together with you."
+    }
+  ],
+  "contents": [
+    {
+      "logo": 1,
+      "num": 8,
+      "studio": "Tear Studio",
+      "day": "20260303",
+      "title": "[Content] 8th Update: Town Storage Expansion",
+      "content": "Town warehouse slots are basically provided to store items more generously."
+    },
+    {
+      "logo": 1,
+      "num": 7,
+      "studio": "Tear Studio",
+      "day": "20260302",
+      "title": "[Content] 7th Update: First Field Boss",
+      "content": "The giant wolf 'Fenrir' appears in the Valley of West Wind. Challenge our first raid."
+    },
+    {
+      "logo": 1,
+      "num": 6,
+      "studio": "Tear Studio",
+      "day": "20260301",
+      "title": "[Content] 6th Update: Chronicles of March",
+      "content": "This is a month-long attendance and quest event in celebration of the new month."
+    },
+    {
+      "logo": 1,
+      "num": 5,
+      "studio": "Tear Studio",
+      "day": "20260228",
+      "title": "[Content] 5th Update: Shared Storage System",
+      "content": "A shared storage space has been opened where you can send and receive items with other characters on your account."
+    },
+    {
+      "logo": 1,
+      "num": 4,
+      "studio": "Tear Studio",
+      "day": "20260227",
+      "title": "[Content] 4th Update: Friendship Points",
+      "content": "You can purchase special consumables with points earned when playing in a party with friends."
+    },
+    {
+      "logo": 1,
+      "num": 3,
+      "studio": "Tear Studio",
+      "day": "20260226",
+      "title": "[Content] 3rd Update: Auto-Navigation Feature",
+      "content": "A convenience feature has been added that automatically navigates to quest objective destinations."
+    },
+    {
+      "logo": 1,
+      "num": 2,
+      "studio": "Tear Studio",
+      "day": "20260225",
+      "title": "[Content] 2nd Update: Daily Quests",
+      "content": "Obtain essential progression materials through five types of daily missions refreshed every day."
+    },
+    {
+      "logo": 1,
+      "num": 1,
+      "studio": "Tear Studio",
+      "day": "20260224",
+      "title": "[Content] 1st Update: Launch Cinematic",
+      "content": "A grand opening video has been added for all adventurers starting the game."
+    }
+  ],
+  "fixes": [
+    {
+      "logo": 1,
+      "num": 8,
+      "studio": "Tear Studio",
+      "day": "20260303",
+      "title": "[Patch] 8th Correction",
+      "content": "Resolved an issue where the quantity input window disappeared when withdrawing items from the town warehouse."
+    },
+    {
+      "logo": 1,
+      "num": 7,
+      "studio": "Tear Studio",
+      "day": "20260302",
+      "title": "[Patch] 7th Correction",
+      "content": "Balanced the boss Fenrir's berserk pattern damage which was excessively powerful."
+    },
+    {
+      "logo": 1,
+      "num": 6,
+      "studio": "Tear Studio",
+      "day": "20260301",
+      "title": "[Patch] 6th Correction",
+      "content": "Fixed a bug where the NPC disappeared after completing event quests, preventing reward claims."
+    },
+    {
+      "logo": 1,
+      "num": 5,
+      "studio": "Tear Studio",
+      "day": "20260228",
+      "title": "[Patch] 5th Correction",
+      "content": "Recovered a glitch where gold abnormally evaporated when using the shared storage feature."
+    },
+    {
+      "logo": 1,
+      "num": 4,
+      "studio": "Tear Studio",
+      "day": "20260227",
+      "title": "[Patch] 4th Correction",
+      "content": "Resolved a synchronization bug where friendship points were paid differently among party members."
+    },
+    {
+      "logo": 1,
+      "num": 3,
+      "studio": "Tear Studio",
+      "day": "20260226",
+      "title": "[Patch] 3rd Correction",
+      "content": "Improved pathfinding logic where repetitive jumping on hills slowed down auto-navigation."
+    },
+    {
+      "logo": 1,
+      "num": 2,
+      "studio": "Tear Studio",
+      "day": "20260225",
+      "title": "[Patch] 2nd Correction",
+      "content": "Fixed a bug where the daily quest list did not refresh at 4:00 AM."
+    },
+    {
+      "logo": 1,
+      "num": 1,
+      "studio": "Tear Studio",
+      "day": "20260224",
+      "title": "[Patch] 1st Correction",
+      "content": "Fixed a sound bug where audio failed to play during opening videos in environments without specific codecs."
+    }
+  ]
+}

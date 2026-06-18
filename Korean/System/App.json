@@ -3,7 +3,7 @@
   "signature": "QJh2EZu5rBji7GwRbd/ZzINbjwRasdOn7qZrrZjdqASo+eQ0nczduiyUCvArL4JBbRIzXhf7FwAXlYekdzVgBYhSHHuBamW36trF+6UwqIn0KpMF9fQFG0x8ihuR1pAeOukMqZ+KuMMoDFyy3gZx9xpr/6oLoyYPJoxfiIYkv/KCsUKXizzJlotANOOA3THGhO6F6MSs2Pnge/0sT6GOVs/FOwg4bpFy+lrPUI6cfSXuJaIUK+lNFMAYZRyjWsO32QqTO4CEjV2yQ9F6vW02rLyU8tgjQZQH9+IJ+2jwPD7IxkephRkVpi3J/rWkFQihAWliuSbkTbEBoI+VUH69Ig==",
   "version": 1,
   "advertisement": "",
-  "alarm":"",
+  "alarm": 1,
   "topics": [
     {"subject" : 1,  "levels": 5, "amount" : 30, "name": "영단어"},
     {"subject" : 2,  "levels": 4, "amount" : 30, "name": "건강" },

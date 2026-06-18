@@ -1,12 +1,11 @@
-
 {
-  "signature": "N61cGRHzQlH9L5hN3K01Gwtx4g6AEJD4xeX+cDguxz7nU8H8eZJcX0r+B76mFYr/xrZQ8OtpbcGHf42ofW4JglsDKz8KigPtEOnRg99cOob90Ur9S8X28w0fDkgDDeXDV0lSLVtlvX9b99YVkBHzTFi0Xehc7YY02n5MBLlCs73gw/gJJWngGRIUsk3ZVHFtDSR1BYhoqiFuC4m17oRjvQ6ijEViT0i6W67kW/OJNDS0OEq53YXoph8WTJ5/AHYXA8R0Sspoa1ARDqlZgNoGsoQj6hf4bafVa/7gx39v19/kn6rNc2KBGOAkTwcSBEKwcWVvGwS4kedz37s0u24SFg==",
+  "signature": "fLoInK6RuyZsSRJWg5PKbpdXV0RcwSzxSSGggN7Ygk+MGawdOOKVB2KQB5nxQnE9Z3X8m1/Bw9CewY2KSkwM1UYBPvbE82sk6C9qEDGuwHRAtSb7sdp3Fpjr1kxMHfokivYVXUEWW03CIC5DQEIpPUBB2GknisSIgtKfHYKuA2+8coiO5AabWsDf7gKS9pIpYEM1w/VA+Ek9z6oia9lbFNMDMsVcJZM6CgxVeLSURnf1jaKLfl2ozDfRkedZ/i060YgNO2BlgndBgv6GmNTAxKPEq00uu4mYicbX4EtS+Ttqj2EHp+LnSGSElLDxwi3BC+7i8v4Y8nDPmqypLSOD4Q==",
   "version": 1,
   "advertisement": "",
-  "alarm": 1,
+  "alarm":"",
   "topics": [
     {"subject" : 1,  "levels": 5, "amount" : 30, "name": "영단어"},
-    {"subject" : 2,  "levels": 4, "amount" : 30, "name": "건강" },
+    {"subject" : 2,  "levels": 4, "amount" : 40, "name": "건강" },
     {"subject" : 3,  "levels": 5, "amount" : 50, "name": "기본상식"},
     {"subject" : 4,  "levels": 4 , "amount" : 100, "name": "생활상식"}
   ]

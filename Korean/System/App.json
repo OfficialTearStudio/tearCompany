@@ -1,12 +1,12 @@
 {
-  "signature": "OxfCdr28Cwe9etajQK0lGa7vIpieWmLBrfVSW2krgJAX5OgIB2D/VnYzbLWNMCu+LIbNvqcA/eF8uZVCtAGZqyXjOLMwzUsz3RS8ivEHU+jlhij2J5B+GXQ0GiBQKfogiX3NkeWhgKgFNIsnJUIzGRCb4Yxtspdkb63VuiA9mt2SeoCVW0zBqp2L+gZL6gsJm4V7+eOZ/BFscHk/Yci194vyn71tLxMBf06h6v9RMzNMRluSbxeFmLYLp5y94PU0qPxqjULk5bgRgZ03LzerJ2o97g871xz+w+Ia0Vp1kh8E/xi64Ic4IEBgobOzZ9Um2YVD3Dpe/17nyX99uT616w==",
+  "signature": "i5JMNggskJzAqdyxsZuBcFgq/gw9LEYou3GKp8NUVmxcz83W2/YvYdTwuYJjLSbKILX0YyeVD/gos2Li5EfbHvYwVsnbfQP7MFYz1zfhxO1HlrFKo21vbO6j1oKE+w7iB/4B689Lridmdbec6AawtPC2nVsTnV3Ut2lLSIA4LIzCCvs/0doADmieGhZ08JPL3dRYvtatpHJy8ECm++K1o2MJha1kbPNd/kFusMpB+CbZ3fdIgPF2Jg6//3y0hsRlja95l/Fuo2lvz14gbFCp8/aa9V4E4YMAAu4qlykv0HZONG6k1iMft+b3XzGtVUDEqVswLv3xAVC2/X4e826OfQ==",
   "version": 1,
   "advertisement": "",
   "alarm":"",
   "topics": [
-    {"subject" : 1,  "levels": 4, "amount" : 400, "name": "일반 상식"},
-    {"subject" : 2,  "levels": 5, "amount" : 250, "name": "지구 과학" },
-    {"subject" : 4,  "levels": 5 , "amount" : 150, "name": "동물,곤충"},
-    {"subject" : 5,  "levels": 5 , "amount" : 150, "name": "식물,과일"}
+    {"subject" : 1,  "levels": 4, "amount" : 100, "name": "일반 상식"},
+    {"subject" : 2,  "levels": 5, "amount" : 50, "name": "지구 과학" },
+    {"subject" : 4,  "levels": 5 , "amount" : 300, "name": "동물,곤충"},
+    {"subject" : 5,  "levels": 5 , "amount" : 300, "name": "식물,과일"}
   ]
 }
